@@ -10,6 +10,7 @@ public class Mein {
         komentare
          */
        System.out.println ("Sanja Nenic Milovanovic");
+       System.out.println (20*10);
 
 
     }
